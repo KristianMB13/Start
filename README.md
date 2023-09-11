@@ -1,1 +1,2 @@
 # Start
+Kristian Magnus Bergedalen
